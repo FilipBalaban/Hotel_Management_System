@@ -18,7 +18,7 @@
         </Grid.RowDefinitions>
 
         <TextBlock
-            HorizontalAlignment="Center"
+            HorizontalAlignment="Left"
             Style="{StaticResource Heading}"
             Text="List of reservations" />
         <StackPanel Grid.Row="2" Orientation="Horizontal">

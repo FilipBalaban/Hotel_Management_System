@@ -8,7 +8,7 @@
     xmlns:views="clr-namespace:Hotel_Management_System.Views"
     Title="MainWindow"
     Width="900"
-    Height="450"
+    Height="550"
     FontSize="14"
     mc:Ignorable="d">
     <Grid>
@@ -30,6 +30,5 @@
         <Grid Grid.Column="1" Margin="20">
             <views:ReservationListingView />
         </Grid>
-
     </Grid>
 </Window>
